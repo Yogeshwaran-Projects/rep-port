@@ -1,6 +1,9 @@
 import { Button } from "@/components/ui/button"
 import { ArrowRight } from "lucide-react"
 
+
+
+//here what the first page of your details goes
 export function Hero() {
   return (
     <section className="relative overflow-hidden py-20 sm:py-32">
