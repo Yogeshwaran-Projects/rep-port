@@ -3,7 +3,7 @@ import { ArrowRight } from "lucide-react"
 
 
 
-//here what the first page of your details goes
+//here what the first page of your details goes so edit here like name and other things 
 export function Hero() {
   return (
     <section className="relative overflow-hidden py-20 sm:py-32">
