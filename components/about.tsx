@@ -1,4 +1,5 @@
 export function About() {
+  //toihjjrgnbkjr
   return (
     <section id="about" className="py-20 sm:py-32 border-t border-border">
       <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
